@@ -1,0 +1,189 @@
+{
+    "cities": [
+      {
+        "name": "Barasat",
+        "categories": {
+          "Police Stations": [
+            {
+              "id": 1,
+              "name": "Barasat Police Station",
+              "address": "Ashutosh Ghosh Rd, Gupta Colony, Barasat, Kolkata, West Bengal 700124",
+              "phoneNumber": "03325523543",
+              "latitude": 22.717917853900342,
+              "longitude": 88.48011104526421
+            }
+          ],
+          "Hospitals": [
+            {
+              "id": 1,
+              "name": "Narayana Hospital, Barasat",
+              "address": "78, Jessore Rd, Barasat, Kolkata, West Bengal 700127",
+              "phoneNumber": "08067506907",
+              "latitude": 22.70527460457122,
+              "longitude": 88.472171789195
+            },
+            {
+              "id": 2,
+              "name": "Barasat Government Medical College & Hospital",
+              "address": "PFCR+PQQ, Barasat, Kolkata, West Bengal 700124",
+              "phoneNumber": "03325523228",
+              "latitude": 22.721833662977353,
+              "longitude": 88.4919874999941
+            },
+            {
+              "id": 3,
+              "name": "City Hospital Barasat",
+              "address": "PGJ2+6Q7, AH1, Kazipara, Uttar Seethi, Kolkata, West Bengal 700124",
+              "phoneNumber": "09875472239", 
+              "latitude": 22.730134876389535,
+              "longitude": 88.50167459549532
+            },
+            {
+              "id": 4,
+              "name": "SKM Hospital",
+              "address": "Street 813/69 Krishnanagar Road check post, NH12, Noapara, Kolkata, West Bengal 700125",
+              "phoneNumber": "08585048391", 
+              "latitude": 22.73813994468725,
+              "longitude": 88.48210442944189
+            },
+            {
+              "id": 5,
+              "name": "BENGAL NEURO & TRAUMA CENTRE | Best Hospital in Barasat",
+              "address": "Bus Stand, Noapara Moyna, Barasat, West Bengal 700125",
+              "phoneNumber": "07003999575",  
+              "latitude": 22.737725638831083,
+              "longitude": 88.48255637247365
+            },
+            {
+              "id": 6,
+              "name": "ECO Hospital and Diagnostics",
+              "address": "111, 1, Jessore Rd, Barasat, Kolkata, West Bengal 700124",
+              "phoneNumber": "08007312345",  
+              "latitude": 22.723858844493513,
+              "longitude": 88.49262889995723
+            },
+            {
+              "id": 7,
+              "name": "Barasat hospital",
+              "address": "138A,SURYATORAN APPARTMENT, Hridaypur Station Rd, Hridaypur, Kolkata, West Bengal 700127",
+              "phoneNumber": "03325523228",  
+              "latitude": 22.709664900000014,
+              "longitude": 88.4695368999941
+            },
+            {
+              "id": 8,
+              "name": "GNRC Hospitals, Barasat, Kolkata",
+              "address": "Kolkata - Basirhat Rd, Koyra, Kadambagachi, West Bengal 700125",
+              "phoneNumber": "08100974444",  
+              "latitude": 22.709183344294523,
+              "longitude": 88.54111065888964
+            },
+            {
+              "id": 9,
+              "name": "Megacity Nursing Home",
+              "address": "Fish Market, 12 Jessore Road Champadali More, 12, Jessore Rd, Champadali, Sector 1, Barasat, Kolkata, West Bengal 700124",
+              "phoneNumber": "03325525069",  
+              "latitude": 22.720293762963443,
+              "longitude": 88.4886229999941
+            },
+            {
+              "id": 10,
+              "name": "Care & Cure Hospital",
+              "address": "P.O, Nabapally Circular Rd, Chkravartipara, Nabapally, कोलकाता, West Bengal 700126",
+              "phoneNumber": "03325422899",  
+              "latitude": 22.723757962994753,
+              "longitude": 88.4739762999941 
+            }
+          ],
+          "Other Support": [
+            {
+              "id": 1,
+              "name": "Barasat Fire Station",
+              "address": "PF9G+CJM, Krishna Nagar Road, Ashok Colony, Barasat, Kolkata, West Bengal 700126",
+              "phoneNumber": "03325423444",
+              "latitude": 22.718609132380035,
+              "longitude": 88.47649211004133
+            }
+          ]
+        }
+      },
+      {
+        "name": "Raniganj",
+        "categories": {
+          "Police Stations": [
+            {
+              "id": 1,
+              "name": "Raniganj Police Station",
+              "address": "M C, Raniganj By-Pass Road, Raniganj, West Bengal 713347",
+              "phoneNumber": "03412444230",
+              "latitude": 23.61195002963367,
+              "longitude": 87.11723801540899
+            }
+          ],
+          "Hospitals": [
+            {
+              "id": 1,
+              "name": "Anandalok Hospital, Raniganj, Asansol",
+              "address": "J4P7+957 Bus Stoppage, NSB Rd, next to Searsole Rajbari, Searsole Rajbari, Raniganj, West Bengal 713358",
+              "phoneNumber": "03412449930", 
+              "latitude": 23.633300625833535,
+              "longitude": 87.11413340263567
+            },
+            {
+              "id": 2,
+              "name": "B N Agarwal Memorial Hospital",
+              "address": "J497+PJF, NSB Rd, near School More, Raniganj, West Bengal 713347",
+              "phoneNumber": "03412441810", 
+              "latitude": 23.619317185621476,
+              "longitude": 87.11406067661392
+            },
+            {
+              "id": 3,
+              "name": "Marwari Relief Society Hospital",
+              "address": "44, NSB Rd, Raniganj, West Bengal 713347",
+              "phoneNumber": "03412442140",  
+              "latitude": 23.607779671134764,
+              "longitude": 87.11509112944186
+            },
+            {
+              "id": 4,
+              "name": "Royal Care Hospital",
+              "address": "J4P8+G8M, Raniganj, West Bengal 713358",
+              "phoneNumber": "Empty",  
+              "latitude": 23.6362661571029,
+              "longitude": 87.11593229999411
+            }
+          ],
+          "Other Support": [
+            {
+              "id": 1,
+              "name": "Raniganj Fire Brigade Station",
+              "address": "J467+XM7, NSB Rd, coal field, Raniganj, West Bengal 713347",
+              "phoneNumber": "03412445104", 
+              "latitude": 23.612346054606558,
+              "longitude": 87.1142307779262
+            }
+          ]
+        }
+      },
+      {
+        "name": "Bardhaman",
+        "categories": {
+          
+        }
+      },
+      {
+        "name": "Asansol",
+        "categories": {
+          
+        }
+      },
+      {
+        "name": "Bankura",
+        "categories": {
+         
+        }
+      }
+    ]
+  }
+  

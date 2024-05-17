@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Emergency_jet_2.0",
+    "slug": "emergencyjet20",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff",
+        "package": "com.emergencyjet2.findplace",
+        "googleMapsApiKey": "AIzaSyCA9_qgZ52qNX2Mp2New33TI_Wl0urr6YE"
+      },
+      "package": "com.subhajitfd.emergencyjet20"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d16d1e8a-5667-4f8f-8a0c-d2a221862eba"
+      }
+    },
+    "owner": "subhajitfd"
+  }
+}
