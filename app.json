@@ -21,7 +21,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff",
         "package": "com.emergencyjet2.findplace",
-        "googleMapsApiKey": "AIzaSyCA9_qgZ52qNX2Mp2New33TI_Wl0urr6YE"
+        "googleMapsApiKey": ""
       },
       "package": "com.subhajitfd.emergencyjet20"
     },
